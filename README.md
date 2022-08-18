@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mumbi123
 - 👀 I’m interested in python and web dev
-- 🌱 I’m currently learning python 
+- 🌱 I’m currently learning python and data science
 - 💞️ I’m looking to collaborate on a lot of things that can help me move forward with my journey
 - 📫 you can reach me moseslesa436@gmail.com 
 
